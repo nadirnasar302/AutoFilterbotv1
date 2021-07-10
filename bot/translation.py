@@ -4,7 +4,7 @@
 
 class Translation(object):
     
-    START_TEXT = """<b><u>Hey {}🙏How are you🙏!!</b>
+    START_TEXT = """<b><u>Hey {}🙏How are you🙏!!</b></u>
 <i>pls join this group @CinemaFactory1
 
 Just Add Me you see @CinemaFactory1
@@ -43,7 +43,8 @@ For More Details Click Help Button Below..
             
             -> <code>Status</code> - Button Will Shows The Stats Of Your Channel
             
-@CrazyBotsz
+@CinemaFactroy1
+
 """
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
@@ -54,5 +55,5 @@ For More Details Click Help Button Below..
 
 <b>➥ Library</b> : <i><a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a></i>
 
-<b>➥ Source Code</b> : <i><a href="https://github.com/AlbertEinsteinTG/Adv-Auto-Filter-Bot">Click Me</a></i>
+<b>➥ Source Code</b> : <i><a href="https://github.com/nadirnasar302/AutoFilterbotv1">Click Me</a></i>
 """
