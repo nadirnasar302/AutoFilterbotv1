@@ -1,16 +1,16 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# (c) @AlbertEinsteinTG
+# (c) @Kaztro
 
 class Translation(object):
     
-    START_TEXT = """<b>Hey {}!!</b>
-<i>Am Just A Advance Auto Filter Bot....😉
+    START_TEXT = """<b><u>Hey {}🙏How are you🙏!!</b>
+<i>pls join this group @CinemaFactory1
 
-Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝
+Just Add Me you see @CinemaFactory1
 
 For More Details Click Help Button Below..
-@CrazyBotsz
+@CinemaFactroy1
 </i>"""    
     
     HELP_TEXT = """
@@ -48,7 +48,7 @@ For More Details Click Help Button Below..
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
     
-<b>➥ Creator</b> : <b><i><a href="https://t.me/AlbertEinstein_TG">AlbertEinstein_TG</a></i></b>
+<b>➥ Creator</b> : <b><i><a href="https://t.me/Kaztro">@MalRock</a></i></b>
 
 <b>➥ Language</b> : <code>Python3</code>
 
